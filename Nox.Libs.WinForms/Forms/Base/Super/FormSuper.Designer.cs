@@ -1,4 +1,4 @@
-﻿namespace Nox.Libs.Windows.Forms.Base.Super
+﻿namespace Nox.Libs.WinForms.Forms.Base.Super
 {
     partial class FormSuper
     {

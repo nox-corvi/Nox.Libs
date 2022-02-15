@@ -1,5 +1,5 @@
 ﻿
-namespace Nox.Libs.Windows.Forms.Base
+namespace Nox.Libs.WinForms.Forms.Base
 {
     partial class Form1
     {
